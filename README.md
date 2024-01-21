@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppzovsky
 - 👀 I’m interested in devs, soccer and learning.
-- 🌱 I’m currently learning Computation in UTFPR
+- 🌱 I’m currently learning Computation
 - 📫 How to reach me joaopedrosoaresdebrito@gmail.com
 
 <!---
