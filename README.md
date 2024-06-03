@@ -1,9 +1,9 @@
 <div align="center">
   
-  - 👋 Hi, I’m @ppzovsky
-  - 👀 I’m interested in devs, soccer and learning.
-  - 🌱 I’m currently learning Computation
-  - 📫 How to reach me: 
+👋 Hi, I’m @ppzovsky
+👀 I’m interested in devs, soccer and learning.
+🌱 I’m currently learning Computation
+📫 How to reach me: 
   <div>
   <a href="https://www.instagram.com/ppzovsky/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@joaopedrosoaresdebrito@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
