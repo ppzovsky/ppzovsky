@@ -14,7 +14,7 @@
 
 </div>
 
-![snake animation](https://github.com/<ppzovsky>/<ppzovsky>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ppzovsky/ppzovsky/blob/output/github-contribution-grid-snake2.svg)
 
 <!---
 ppzovsky/ppzovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
